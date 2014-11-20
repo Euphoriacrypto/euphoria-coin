@@ -1,0 +1,9 @@
+Building Euphoria
+
+See doc/readme-qt.rst for instructions on building Euphoria QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Euphoria.
+
+See doc/build-*.txt for instructions on building Euphoriad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Euphoria.
